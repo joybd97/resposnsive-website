@@ -1,0 +1,217 @@
+
+.top{
+    margin-top: 0;
+    background-color: rgb(248, 159, 86, .08);
+    padding-bottom: 20px;
+    height: 725px;
+    
+}
+@media only screen and (max-width: 600px) {
+    .logo img{
+       
+        height: 35px;
+       width: 200px !important;
+        
+    }
+    .container {
+        position: relative;
+        justify-content: left;
+    }
+
+    .row-flex{
+        justify-content: flex-end!important;
+        margin-left: 0;
+    }
+
+    .orange{
+        
+        font-size: 30px;
+    }
+    .blue{
+        
+        font-size: 30px;
+    }
+
+    .card{
+       margin-left: 40px;
+    }
+
+    .top{
+        height: 1100px;
+    }
+
+    
+    .bot-row{
+        flex-direction: column;
+        
+    }
+    .bottom-card{
+        margin-left: 30px;
+    }
+
+    
+}
+
+.top-body{
+    margin-top: 100px;
+}
+
+
+.nav{
+    background-color:transparent !important;
+    
+}
+
+.logo img{
+    height: 45px;
+    width: 300px;
+    margin-left: 120px;
+}
+
+.navItem{
+    display: flex;
+    float: right;
+    justify-content: flex-end;
+    margin-right: 120px;
+}
+
+.nav-item{
+    padding: 0px 20px ;
+    
+}
+
+.top-shoe img{
+    height: 100%;
+    width: 100%;
+}
+
+.top-text{
+    margin-left: 250px;
+}
+
+.btn{
+    width: 160px;
+    height: 55px;
+    margin-top: 10px;
+    font-size: 30px;
+   
+
+}
+.btn img{
+    height: 20px;
+    width: 20px;
+    
+
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #3600c9 !important;
+    border-color: #0d6efd;
+}
+
+.orange{
+    color: rgb(244, 143, 96);
+    font-size: 60px;
+}
+.blue{
+    color: rgb(46, 46, 99);
+    font-size: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-top: 70px;
+   
+}
+
+.sec-head h2{
+    font-size: 40px;
+    margin-top: 20px;
+}
+
+.card{
+    
+    margin-right: 50px;
+    box-shadow: 10px 10px 30px rgb(197, 197, 197) ;
+    
+}
+
+.img-card{
+    background-color: rgb(241, 240, 240);
+    border-radius: 10px !important;
+    border-top-left-radius: 25px;
+    margin: 20px;
+    max-width: 90%;
+    max-height: 300px;
+    
+}
+
+
+
+.card{
+    border-radius: 10px !important;
+    margin-top: 30px;
+    margin-bottom: 200px;
+}
+
+.card-title{
+    color: rgb(46, 46, 99);
+    font-family: fantasy;
+}
+
+.card-btn{
+    display: flex;
+    
+}
+
+.price{
+    margin-top:20px;
+    margin-left: 10px;
+    color: coral;
+    font-size: 35px;
+}
+.bottom-sec{
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+
+.bottom-card img{
+    height: 70px;
+    width: 70px;
+}
+
+.col-img{
+    max-width: 40px  !important;
+}
+
+.bottom-title{
+    margin-left: 40px;
+    font-size: 20px;
+}
+
+.bottom-text{
+    margin-left: 40px;
+    font-size: 15px;
+    max-width: 250px;
+}
+
+.bottom-card{
+    margin-right: 30px;
+    box-shadow: 10px 10px 20px rgb(197, 197, 197) ;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+.bot-pic img{
+    margin-top: 50px;
+    height: 80%;
+    width: 100%;
+}
+
+.footer{
+    background-color: rgb(0, 0, 0);
+    padding-top: 30px;
+    color: white;
+}
+
+.copy{
+    text-align: center;
+}
